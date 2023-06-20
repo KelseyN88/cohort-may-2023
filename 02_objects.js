@@ -73,7 +73,7 @@ console.log('KEYS: ', Object.keys(theSimpsons)); // returns an
 console.log('Values: ', Object.values(theSimpsons)); // returns an array
 // of the objects values within the keys
 
-//* Object.crate()
+//* Object.create()
 const futurama = Object.create(theSimpsons)
 futurama.id = 2
 futurama.est = 1999

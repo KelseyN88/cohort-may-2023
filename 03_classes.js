@@ -96,7 +96,7 @@ console.log(useFunction);
 class DeptInventory {
     constructor (dept) {
         this.department = dept
-        this.items = [] // making a default value for this key!!!!ZORK INVENTORY
+        this.items = [] // making a default value for this key!!!!ZORK INVENTORY!!!!!!
     }
 
     //         1        2
